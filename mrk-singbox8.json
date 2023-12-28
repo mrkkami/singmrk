@@ -109,7 +109,7 @@
     },
     {
       "packet_encoding": "xudp",
-      "server": "mrkbestseoiranircom.tarafe3vm.ir",
+      "server": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV",
       "server_port": 2087,
       "tls": {
         "alpn": [
@@ -117,7 +117,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "mrkbestseoiranircom.tarafe3vm.ir",
+        "server_name": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -126,7 +126,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "mrkbestseoiranircom.tarafe3vm.ir"
+          "Host": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV"
         },
         "max_early_data": 2048,
         "path": "/",
@@ -139,7 +139,7 @@
     },
     {
       "packet_encoding": "",
-      "server": "farvahONlinecomIR.wor14maykhodaiashokreteiazizedel.workers.Dev",
+      "server": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV",
       "server_port": 443,
       "tls": {
         "alpn": [
@@ -147,7 +147,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "farvahONlinecomIR.wor14maykhodaiashokreteiazizedel.workers.Dev",
+        "server_name": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -156,7 +156,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "farvahONlinecomIR.wor14maykhodaiashokreteiazizedel.workers.Dev"
+          "Host": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV"
         },
         "path": "/",
         "type": "ws"
@@ -168,7 +168,7 @@
     },
     {
       "packet_encoding": "",
-      "server": "wormay18eibaazematshokouhmandshokret.iabzari.ir",
+      "server": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV",
       "server_port": 443,
       "tls": {
         "alpn": [
@@ -176,7 +176,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "wormay18eibaazematshokouhmandshokret.iabzari.ir",
+        "server_name": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -185,7 +185,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "wormay18eibaazematshokouhmandshokret.iabzari.ir"
+          "Host": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV"
         },
         "max_early_data": 2048,
         "path": "/",
@@ -198,7 +198,7 @@
     },
     {
       "packet_encoding": "",
-      "server": "goldwor21shokrkhodakhodetrezghziadnasibemoonkon.iabzari.ir",
+      "server": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV",
       "server_port": 2087,
       "tls": {
         "alpn": [
@@ -206,7 +206,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "goldwor21shokrkhodakhodetrezghziadnasibemoonkon.iabzari.ir",
+        "server_name": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -215,7 +215,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "goldwor21shokrkhodakhodetrezghziadnasibemoonkon.iabzari.ir"
+          "Host": "VFhellowiranapple.wor14maykhodaiaSHOKRETeiazizedel.workers.DEV"
         },
         "path": "/",
         "type": "ws"
