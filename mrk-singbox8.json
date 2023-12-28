@@ -11,7 +11,7 @@
     ],
     "servers": [
       {
-        "address": "https://8.8.8.8/dns-query",//peyman//@P_tech2024
+        "address": "https://8.8.8.8/dns-query",
         "address_resolver": "dns-direct",
         "strategy": "ipv4_only",
         "tag": "dns-remote"
