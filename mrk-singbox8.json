@@ -105,7 +105,7 @@
       "uuid": "1f5a8bf4-471f-49ff-994f-6685ca0ed742",
       "type": "vless",
       "domain_strategy": "",
-      "tag": "worker 1️⃣"
+      "tag": "mrk1"
     },
     {
       "packet_encoding": "xudp",
@@ -135,7 +135,7 @@
       "uuid": "fa387f8b-11bf-4eed-ad0b-53bcb2051add",
       "type": "vless",
       "domain_strategy": "",
-      "tag": "worker 2️⃣"
+      "tag": "mrk2"
     },
     {
       "packet_encoding": "",
@@ -164,7 +164,7 @@
       "uuid": "66d9434e-3f93-47bc-8448-d3350e409978",
       "type": "vless",
       "domain_strategy": "",
-      "tag": "worker 3️⃣"
+      "tag": "mrk3"
     },
     {
       "packet_encoding": "",
@@ -194,7 +194,7 @@
       "uuid": "2f5b3534-5880-4b25-8106-9645aad0720b",
       "type": "vless",
       "domain_strategy": "",
-      "tag": "worker 4️⃣"
+      "tag": "mrk4"
     },
     {
       "packet_encoding": "",
@@ -223,7 +223,7 @@
       "uuid": "0b189537-b2fd-4a47-aa6c-70e7b1c5e3fb",
       "type": "vless",
       "domain_strategy": "",
-      "tag": "worker 5️⃣"
+      "tag": "mrk5"
     },
     {
       "local_address": [
@@ -239,7 +239,7 @@
       "server_port": 2408,
       "type": "wireguard",
       "domain_strategy": "",
-      "tag": "عمو وایرگارد1️⃣"
+      "tag": "best1"
     },
     {
       "local_address": [
@@ -255,7 +255,7 @@
       "server_port": 1070,
       "type": "wireguard",
       "domain_strategy": "",
-      "tag": "عمو وایرگارد2️⃣"
+      "tag": "best2"
     },
     {
       "local_address": [
@@ -271,35 +271,35 @@
       "server_port": 1070,
       "type": "wireguard",
       "domain_strategy": "",
-      "tag": "عمو وایرگارد3️⃣"
+      "tag": "best3"
     },
     {
       "tag": "💚Internet💚",
       "type": "selector",
       "outbounds":[
         "❤️Best Latency❤️",
-        "worker 1️⃣",
-        "worker 2️⃣",
-        "worker 3️⃣",
-        "worker 4️⃣",
-        "worker 5️⃣",
-        "عمو وایرگارد1️⃣",
-        "عمو وایرگارد2️⃣",
-        "عمو وایرگارد3️⃣"
+        "mrk1",
+        "mrk2",
+        "mrk3",
+        "mrk4",
+        "mrk5",
+        "best1",
+        "best2",
+        "best3"
       ]
     },
     {
       "tag": "❤️Best Latency❤️",
       "type": "urltest",
       "outbounds":[
-        "worker 1️⃣",
-        "worker 2️⃣",
-        "worker 3️⃣",
-        "worker 4️⃣",
-        "worker 5️⃣",
-        "عمو وایرگارد1️⃣",
-        "عمو وایرگارد2️⃣",
-        "عمو وایرگارد3️⃣"
+        "mrk1",
+        "mrk2",
+        "mrk3",
+        "mrk4",
+        "mrk5",
+        "best1",
+        "best2",
+        "best3"
       ],
       "url": "https://detectportal.firefox.com/success.txt",
       "interval": "60s",
